@@ -34,3 +34,14 @@ pip install -r requirements.txt
 ```
 ![image](https://github.com/Hamoud-20/BDv1/assets/137123444/35528320-a69f-4a6e-ac92-8850f16d416c)
 
+# This will display help for the tool. Here are all the switches it supports.
+
+```console
+options:
+1. Create baseline
+2. Compare baseline
+3. Create process tree and compare with previous baseline
+4. Display network connections
+5. Exit
+Please select an option:
+```
