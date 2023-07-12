@@ -21,15 +21,9 @@ Overall, the process baseline tool is a powerful and useful tool for system admi
 # Installation
 Step 1:
 ```
-git clone https://github.com/Hamoud-20/Sockit.git
+https://github.com/Hamoud-20/BDv1.git
 ```
 Step 2:
 ```
 pip install -r requirements.txt
-```
-Step 3:
-Set up your VirusTotal API and urlscan.io API key:
-```
-API_KEY = "YOUR_API_KEY"
-URLSCAN_API_KEY = "YOUR_API_KEY"
 ```
