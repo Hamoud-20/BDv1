@@ -17,7 +17,6 @@ The tool can display a process tree of specified processes using the `graphviz` 
 5. Menu of options:
 The tool provides a menu of options for the user to choose from, making it easy to navigate and use. This feature allows users to easily access and utilize the various functions of the tool, making it more user-friendly and efficient.
  
-Overall, the process baseline tool is a powerful and useful tool for system administrators and security analysts to monitor and detect any changes in running processes and services on a system. The tool's various features make it easy to use and navigate, while providing valuable insights into system activity and potential security issues.
 # Installation
 Step 1:
 ```
@@ -45,3 +44,7 @@ options:
 5. Exit
 Please select an option:
 ```
+# Summary
+
+Overall, the process baseline tool is a powerful and useful tool for system administrators and security analysts to monitor and detect any changes in running processes and services on a system. The tool's various features make it easy to use and navigate, while providing valuable insights into system activity and potential security issues.
+
