@@ -1,5 +1,7 @@
 # BDv1
 
+Features
+
 1. Network connections display:
 The tool displays a table of network connections on the system, which includes information such as local and remote addresses, connection status, process ID, process name, and duration of connection. This can help system administrators and security analysts monitor network activity and identify any suspicious connections or activity.
 
