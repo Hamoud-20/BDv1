@@ -32,5 +32,5 @@ pip install -r requirements.txt
 ```
  python BDv1.py
 ```
-<img width="731" alt="image" src="https://github.com/Hamoud-20/BDv1/assets/137123444/72f6f630-7254-4743-8c6b-5792a040caa6">
+![image](https://github.com/Hamoud-20/BDv1/assets/137123444/35528320-a69f-4a6e-ac92-8850f16d416c)
 
