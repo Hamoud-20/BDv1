@@ -27,3 +27,8 @@ Step 2:
 ```
 pip install -r requirements.txt
 ```
+
+# Usage
+```
+ python BDv1.py
+```
