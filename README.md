@@ -48,3 +48,5 @@ Please select an option:
 
 Overall, the process baseline tool is a powerful and useful tool for system administrators and security analysts to monitor and detect any changes in running processes and services on a system. The tool's various features make it easy to use and navigate, while providing valuable insights into system activity and potential security issues.
 
+Happy threat hunting!
+
