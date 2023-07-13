@@ -41,7 +41,7 @@ BBBBBBBBBBBBBBBBB   DDDDDDDDDDDDD                  vvv        111111111111
 
 def display_network_connections():
     connections = []
-    # Define normal ports
+    # normal ports
     normal_ports = [80, 443, 22, 3389, 1433]
     for conn in psutil.net_connections():
         
