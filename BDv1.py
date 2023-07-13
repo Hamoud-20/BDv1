@@ -44,7 +44,7 @@ def display_network_connections():
     # Define normal ports
     normal_ports = [80, 443, 22, 3389, 1433]
     for conn in psutil.net_connections():
-        # Only show TCP,UDP connections
+        
         if conn.family == socket.AF_INET and (conn.type == socket.SOCK_STREAM or conn.type == socket.SOCK_DGRAM):
             try:
                 proc = psutil.Process(conn.pid)
@@ -97,7 +97,7 @@ def create_baseline():
             'ppid': proc.info['ppid']
         }
 
-        # Get the list of open ports for the process
+        
         try:
             conn = psutil.Process(proc.info['pid']).connections()
             ports = []
@@ -110,7 +110,7 @@ def create_baseline():
 
         processes.append(process_info)
 
-    # Get the list of running services
+    
     services = []
     for service in psutil.win_service_iter():
         try:
